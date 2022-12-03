@@ -4,11 +4,11 @@ p{
 }
 
 i{
-    font-weight:600;
+    font-weight:500;
 }
 img{
-    height: 150px;
-    width:150px;
+    height: 100px;
+    width:100px;
     float:left;
     margin:0 15px 0 0;
 }
