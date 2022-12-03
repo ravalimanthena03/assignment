@@ -1,0 +1,27 @@
+p{
+    
+    font-style: oblique;
+}
+
+i{
+    font-weight:600;
+}
+img{
+    height: 150px;
+    width:150px;
+    float:left;
+    margin:0 15px 0 0;
+}
+.line{
+    padding-top:100px;
+}
+#forcol{
+    background-color: blanchedalmond;
+}
+.headings{
+    background-color:rgb(230, 220, 223) ;
+    padding-bottom: 5px;
+}
+h1{
+   display:inline;
+}
